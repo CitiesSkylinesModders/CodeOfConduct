@@ -1,15 +1,15 @@
-# #skylines-modders
+# Cities: Skylines Modders
 ## Code of conduct
 
 ## 1. Purpose
 
-A primary goal of #skylines-modders is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Cities: Skylines Modders is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in #skylines-modders to help us create safe and positive experiences for everyone.
+We invite all those who participate in our community to help us create safe and positive experiences for everyone.
 
-## 2. Open Source Citizenship
+## 2. Open Source Citizenship#
 
 A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
