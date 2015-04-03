@@ -62,7 +62,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [Alexander Dzhoganov](alexander.dzhoganov@gmail.com) with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [Alexander Dzhoganov](mailto:alexander.dzhoganov@gmail.com) with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 8. Scope
 
@@ -72,7 +72,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-[Alexander Dzhoganov](alexander.dzhoganov@gmail.com).
+[Alexander Dzhoganov](mailto:alexander.dzhoganov@gmail.com).
 
 ## 10. License and attribution
 
