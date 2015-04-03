@@ -72,7 +72,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-[Alexander Dzhoganov](mailto:alexander.dzhoganov@gmail.com).
+[Alexander Dzhoganov](mailto:alexander.dzhoganov@gmail.com) - /u/nlight
 
 ## 10. License and attribution
 
